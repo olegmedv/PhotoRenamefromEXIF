@@ -8,3 +8,7 @@ Basic operations are very, very simple.
 
 Also you can just rename images, without output folder.
 Or delete original images.
+
+Input images are at left table.
+Output images are at right table.
+If there is a failed image - it adds img to bottom table.
