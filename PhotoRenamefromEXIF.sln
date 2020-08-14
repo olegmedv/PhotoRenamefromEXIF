@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoRenamefromEXIF", "WpfApp1\PhotoRenamefromEXIF.csproj", "{5EEFC449-7DC8-4B47-ADC0-D8505EDC0B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Photo Rename from EXIF|Any CPU = Photo Rename from EXIF|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEFC449-7DC8-4B47-ADC0-D8505EDC0B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEFC449-7DC8-4B47-ADC0-D8505EDC0B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEFC449-7DC8-4B47-ADC0-D8505EDC0B25}.Photo Rename from EXIF|Any CPU.ActiveCfg = Photo Rename from EXIF|Any CPU
+		{5EEFC449-7DC8-4B47-ADC0-D8505EDC0B25}.Photo Rename from EXIF|Any CPU.Build.0 = Photo Rename from EXIF|Any CPU
+		{5EEFC449-7DC8-4B47-ADC0-D8505EDC0B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEFC449-7DC8-4B47-ADC0-D8505EDC0B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43189F5F-21D6-44CE-9585-762CFF3512DA}
+	EndGlobalSection
+EndGlobal
